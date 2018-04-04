@@ -1,0 +1,22 @@
+2018-02-23 13:01:34,138 - com.qspiders.KeyDriver - INFO - **********************Starting Frame Work**********************
+2018-02-23 13:01:58,778 - com.qspiders.KeyDriver - INFO - Total Number of Scenarios:2
+2018-02-23 13:01:59,016 - com.qspiders.KeyDriver - INFO - ======================================================
+2018-02-23 13:01:59,017 - com.qspiders.KeyDriver - INFO - Starting scenario:Scenario1
+2018-02-23 13:01:59,108 - com.qspiders.KeyDriver - INFO - StepCount:4
+2018-02-23 13:01:59,421 - com.qspiders.KeyDriver - INFO - enter username
+2018-02-23 13:01:59,512 - com.qspiders.FWLibrary - INFO - Element found with xpath://input[@id='username']
+2018-02-23 13:01:59,788 - com.qspiders.FWLibrary - INFO - Entering "admin"
+2018-02-23 13:02:00,061 - com.qspiders.KeyDriver - INFO - enter password
+2018-02-23 13:02:00,131 - com.qspiders.FWLibrary - INFO - Element found with xpath://input[@name='pwd']
+2018-02-23 13:02:00,368 - com.qspiders.FWLibrary - INFO - Entering "manager"
+2018-02-23 13:02:00,645 - com.qspiders.KeyDriver - INFO - click login
+2018-02-23 13:02:00,714 - com.qspiders.FWLibrary - INFO - Element found with xpath://a[@id='loginButton']
+2018-02-23 13:02:01,107 - com.qspiders.KeyDriver - INFO - click logout
+2018-02-23 13:02:12,206 - com.qspiders.FWLibrary - INFO - Element found with xpath://a[@id='logoutLink']
+2018-02-23 13:02:15,767 - com.qspiders.KeyDriver - INFO - Ending scenario:Scenario1
+2018-02-23 13:02:15,767 - com.qspiders.KeyDriver - INFO - !!!! Execution Status of above scenario:PASS !!!!
+2018-02-23 13:02:15,767 - com.qspiders.KeyDriver - INFO - ======================================================
+2018-02-23 13:02:16,008 - com.qspiders.KeyDriver - INFO - _________________________________________________________
+2018-02-23 13:02:16,008 - com.qspiders.KeyDriver - WARN - Skipping scenario:Scenario2
+2018-02-23 13:02:16,723 - com.qspiders.KeyDriver - INFO - Total Pass:1 ; Total Fail:0 ; Total Skip:1
+2018-02-23 13:02:16,723 - com.qspiders.KeyDriver - INFO - **********************Ending Frame Work**********************

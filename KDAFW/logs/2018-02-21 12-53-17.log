@@ -1,0 +1,7 @@
+2018-02-21 12:53:18,089 - com.qspiders.KeyDriver - INFO - **********************Starting Frame Work**********************
+2018-02-21 12:53:28,708 - com.qspiders.KeyDriver - INFO - Total Number of Scenarios:2
+2018-02-21 12:53:28,823 - com.qspiders.KeyDriver - INFO - ======================================================
+2018-02-21 12:53:28,823 - com.qspiders.KeyDriver - INFO - Starting scenario:Scenario1
+2018-02-21 12:53:28,866 - com.qspiders.KeyDriver - INFO - StepCount:4
+2018-02-21 12:53:28,983 - com.qspiders.KeyDriver - INFO - enter username
+2018-02-21 12:53:32,759 - com.qspiders.FWLibrary - INFO - Element found with xpath://input[@id='username']
